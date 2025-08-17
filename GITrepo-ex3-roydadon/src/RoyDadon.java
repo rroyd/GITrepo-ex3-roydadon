@@ -1,7 +1,7 @@
 public class RoyDadon {
     public static void main(String[] args) {
         for (int i = 1; i <= 15; i++) {
-            System.out.println("Roy Ha Melech");
+            System.out.println("Moshe is the best lecturer");
         }
     }
 }
